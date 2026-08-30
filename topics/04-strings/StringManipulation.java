@@ -13,4 +13,4 @@ public class StringManipulation {
         StringBuilder reversed = new StringBuilder(sentence);
         System.out.println("Reversed sentence: " + reversed.reverse());
     }
-}
+}=
