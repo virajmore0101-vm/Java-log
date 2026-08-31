@@ -23,4 +23,4 @@ class EmpmasterParam {
         EmpmasterParam e = new EmpmasterParam("Vijay", "IT", "Manager", 28, 1500);
         e.display();
     }
-}
+} 
